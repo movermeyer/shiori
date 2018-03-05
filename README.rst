@@ -18,7 +18,7 @@ It is written "栞" in Kanji, this caracter is 0x681E in Unicode.
    :target: http://travis-ci.org/mkouhei/shiori
 .. image:: https://coveralls.io/repos/mkouhei/shiori/badge.png?branch=devel
    :target: https://coveralls.io/r/mkouhei/shiori?branch=devel
-.. image:: https://pypip.in/v/shiori/badge.png
+.. image:: https://img.shields.io/pypi/v/shiori.svg
    :target: https://crate.io/packages/shiori
 
 
